@@ -18,10 +18,10 @@ Script
 4. Set current model to Model2. Show that it contains new timeBudget attribute with default of 5 min. 
 5. Run the app and then open the store. You will see a 5 min default timeBudget in each Topic.
 6. Quit app and set current model to Model3. Renamed *content* to *title* on Topic using Renaming Identifier. 
-7. Run app and open store. Show that we’ve lost our Topic content. Need to uncomment code in CDMTopicsViewController.m in cellForRowAtIndexPath to use new title property to set cell content.
-8. Run and show topic content now showing.
+7. Run app and open store.
+8. Show topic content still showing but now served from *title* attribute.
 9. Quit app and set Model4 as current model. This is the minutes to seconds conversion…using Hash Modifier.
 10. Run app and open store. Migration occurs, but data is still in minutes. This is limit of Lightweight migration.
 11. Quit app and set model to Model5. Run app and open store.
 12. Migration occurs and schema is changed, but we’ve lost the presenter information in our new database. This is another limit of Lightweight migration.
-12. Demo ends.
+13. Demo ends.
