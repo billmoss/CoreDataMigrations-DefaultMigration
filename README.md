@@ -3,9 +3,7 @@ CoreDataMigrations-DefaultMigration
 
 Demo 4 project from my Core Data Migrations talk at San Antonio iOS Meetup.
 
-The demo is run the same as Demo 2.
-
-Differences include we now have mapping models and a custom TopicToTopic migration policy.
+The demo is run the same as Demo 2. Differences include addition of mapping models and a custom TopicToTopic migration policy.
 
 In this demo, the use of these mappings and policy code accomplish the following:
 * Model1->Model2. We set the timeBudget to be 20% of the topic content length…vs defaulting to 5 min. This is done using a value expression in the mapping model.
