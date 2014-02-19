@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30A542CD-FAED-41DC-866D-F94478B16085</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreDataMigration</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE389C0E-C8A8-490C-A654-BB553C3E542A</key>
+		<string>https://bitbucket.org/bill-moss/coredatamigration.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreDataMigration.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE389C0E-C8A8-490C-A654-BB553C3E542A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/bill-moss/coredatamigration.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE389C0E-C8A8-490C-A654-BB553C3E542A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE389C0E-C8A8-490C-A654-BB553C3E542A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
